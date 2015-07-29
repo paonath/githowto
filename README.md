@@ -4,9 +4,10 @@ A collection of useful links
 
 ## Merge
 
-* [resolving conflicts](http://githowto.com/resolving_conflicts) 
+* [Resolving Conflicts](http://githowto.com/resolving_conflicts) 
 
 ## Fork
 
-* [Sync a fork](https://help.github.com/articles/syncing-a-fork/)
+* [Forking Projects](https://guides.github.com/activities/forking/)
+* [Sync a Fork](https://help.github.com/articles/syncing-a-fork/)
 
